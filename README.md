@@ -7,5 +7,6 @@ Keras into a training set (60,000 images) and a testing set (10,000 images).
 Training different Neural Networks on this dataset. try different learning rates, optimisers, batch sizes and architectures
 
 # Results
- 
+
+ The effect of different Architectures
 ![result](https://user-images.githubusercontent.com/107531850/173750807-6be28963-a455-444b-922d-3a6548fea661.PNG)
