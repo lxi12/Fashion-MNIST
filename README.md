@@ -4,7 +4,7 @@ products (tops, trousers, dresses, etc.). The data can be loaded straight from
 Keras into a training set (60,000 images) and a testing set (10,000 images). 
 
 
-Training different Neural Networks on this dataset. try different learning rates, optimisers, batch sizes and architectures
+Training different Neural Networks on this dataset to do a multiclass classification task. See how different learning rates, optimisers, batch sizes and architectures affect the performance.
 
 # Results
  The effect of different Architectures
