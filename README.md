@@ -2,6 +2,7 @@
 The Fashion MNIST dataset comprises 70,000 grayscale images of 10 fashion
 products (tops, trousers, dresses, etc.). The data can be loaded straight from
 Keras into a training set (60,000 images) and a testing set (10,000 images). 
+More information please refers to Kaggle: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 
 
 Training different Neural Networks on this dataset to do a multiclass classification task. See how different learning rates, optimisers, batch sizes and architectures affect the performance.
